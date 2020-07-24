@@ -1,0 +1,8 @@
+mesaj uyarı gönderme
+
+Şu an tam stabil olmasa da indirme ve yükleme çalışıyor. Dosya seçimlerinde sorun yok gibi.
+Kodları düzenleyip, hata yakalamalarını yaptıktan sonra wordpress işlemlerine geçebilirim.
+
+Wordpress işlemlerinde neler olacak ?
+- Pinterestten pin çekip bunları wordpress'e yüklemek. Daha sonra bu pinleri tekrar pinterest'e yüklemek.
+- Wordpress içeriklerini özgün pin olarak paylaşmak. Bunu yeni yazı paylaşıldığında otomatik olarak yapması gerek.
